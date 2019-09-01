@@ -1,0 +1,17 @@
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Knack.Net.TestClient.exe.config
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Knack.Net.TestClient.exe
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Knack.Net.TestClient.pdb
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Knack.NET.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\RestSharp.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Knack.NET.pdb
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\RestSharp.xml
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.csprojAssemblyReference.cache
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.Form1.resources
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.Properties.Resources.resources
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.csproj.GenerateResource.cache
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.csproj.CopyComplete
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.exe
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\obj\Debug\Knack.Net.TestClient.pdb
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack.Net.TestClient\bin\Debug\Newtonsoft.Json.xml

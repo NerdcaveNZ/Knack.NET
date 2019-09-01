@@ -1,0 +1,11 @@
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\Knack.NET.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\Knack.NET.pdb
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\RestSharp.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\bin\Debug\RestSharp.xml
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\obj\Debug\Knack .NET.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\obj\Debug\Knack .NET.csproj.CopyComplete
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\obj\Debug\Knack.NET.dll
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\obj\Debug\Knack.NET.pdb
+C:\Users\James\Documents\GitHub\Knack.NET\Knack .NET\Knack .NET\obj\Debug\Knack .NET.csprojAssemblyReference.cache
